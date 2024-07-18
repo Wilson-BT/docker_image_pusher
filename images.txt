@@ -8,3 +8,15 @@ docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 docker.getcollate.io/openmetadata/db:1.4.3
 docker.getcollate.io/openmetadata/server:1.4.3
 docker.getcollate.io/openmetadata/ingestion:1.4.3
+confluentinc/cp-kafka:7.4.0
+acryldata/datahub-actions:head
+acryldata/datahub-frontend-react:head
+acryldata/datahub-upgrade:head
+acryldata/datahub-gms:head
+elasticsearch:7.10.1
+acryldata/datahub-elasticsearch-setup:head
+acryldata/datahub-kafka-setup:head
+mariadb:10.5.8
+acryldata/datahub-mysql-setup:head
+confluentinc/cp-zookeeper:7.4.0
+confluentinc/cp-schema-registry:7.4.0
