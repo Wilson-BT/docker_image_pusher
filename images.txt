@@ -20,3 +20,4 @@ mariadb:10.5.8
 acryldata/datahub-mysql-setup:head
 confluentinc/cp-zookeeper:7.4.0
 confluentinc/cp-schema-registry:7.4.0
+docker.io/gethue/hue
