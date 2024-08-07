@@ -22,4 +22,5 @@
 #confluentinc/cp-schema-registry:7.4.0
 #docker.io/gethue/hue
 #sqlpad/sqlpad
-prom/prometheus
+#prom/prometheus
+grafana/grafana
