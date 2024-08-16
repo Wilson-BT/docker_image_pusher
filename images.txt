@@ -23,4 +23,7 @@
 #docker.io/gethue/hue
 #sqlpad/sqlpad
 #prom/prometheus
-grafana/grafana
+#grafana/grafana
+knowstreaming/knowstreaming-manager:latest
+knowstreaming/knowstreaming-ui:latest
+docker.io/library/elasticsearch:7.6.2
