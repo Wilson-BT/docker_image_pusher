@@ -35,4 +35,4 @@
 #langgenius/dify-sandbox:0.2.9
 #semitechnologies/weaviate:1.19.0
 #ubuntu/squid:latest
-mysql:lastest
+mysql:latest
